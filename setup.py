@@ -11,7 +11,7 @@ classifiers = [
  
 setup(
   name='myipaddress',
-  version='1.0.1',
+  version='1.0.2',
 
   description="A package to get your/others IP information.",
   long_description = long_description,
@@ -20,7 +20,7 @@ setup(
 
   author='Eric Dennis',
   author_email='ericdennis11@gmail.com',
-  
+
   license='MIT', 
   classifiers=classifiers,
   keywords=['IP', 'myip', 'IP address', 'geolocation', 'public IP', 'private IP', 'socket', 'ports', 'open ports'], 
