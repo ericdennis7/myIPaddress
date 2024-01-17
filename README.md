@@ -47,9 +47,9 @@ This module provides functionality to fetch IP information, including public and
 Example:
 
 ```python
-import myIPaddress
+import myIPaddress as myip
 
-ip_info = myIPaddress.public_ip()
+ip_info = myip.public_ip()
 print(f"Public IP Address: {ip_info}")
 ```
 
