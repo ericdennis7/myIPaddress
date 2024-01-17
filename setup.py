@@ -8,7 +8,7 @@ classifiers = [
  
 setup(
   name='myipaddress',
-  version='1.0',
+  version='1.0.1',
   description="A package to get your/others IP information.",
   url='https://github.com/ericdennis7/myIPaddress',  
   author='Eric Dennis',
